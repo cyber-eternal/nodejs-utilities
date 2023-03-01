@@ -1,0 +1,41 @@
+{
+  "name": "exceptions",
+  "version": "0.0.1",
+  "description": "Exceptions for Nodejs projects",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "rm -rf ./dist && tsc",
+    "lint": "eslint . --ext .ts,.tsx",
+    "lint:fix": "eslint . --ext .ts,.tsx --fix",
+    "prettier": "prettier --check '*/**/*.{js,ts,tsx}'",
+    "prettier:fix": "prettier --write '*/**/*.{js,ts,tsx}'"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "/dist"
+  ],
+  "keywords": [
+    "nodejs",
+    "express",
+    "nestjs",
+    "exceptions",
+    "error",
+    "handling"
+  ],
+  "devDependencies": {
+    "@types/express": "^4.17.14",
+    "@typescript-eslint/eslint-plugin": "^5.19.0",
+    "@typescript-eslint/parser": "^5.19.0",
+    "eslint": "^8.13.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.8.0",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

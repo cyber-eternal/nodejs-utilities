@@ -1,0 +1,34 @@
+{
+  "name": "nodejs-utilities",
+  "description": "Utilities for Nodejs projects",
+  "scripts": {
+    "publish-from-package": "npx lerna publish from-package"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyber-eternal/nodejs-utilities.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "nestjs",
+    "exceptions",
+    "error",
+    "handling"
+  ],
+  "author": "CyberEternal <edgar@sargsyan.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyber-eternal/nodejs-utilities/issues"
+  },
+  "homepage": "https://github.com/cyber-eternal/nodejs-utilities#readme",
+  "devDependencies": {
+    "lerna": "^6.3.0"
+  }
+}
