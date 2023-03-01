@@ -36,7 +36,7 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
-    "exceptions": "^0.1.1",
+    "exceptions": "^0.1.2",
     "express": "^4.18.2"
   },
   "workspaces": [
