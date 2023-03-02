@@ -1,5 +1,5 @@
 {
-  "name": "middlewares",
+  "name": "@cyber-eternal/middlewares",
   "version": "0.1.6",
   "access": "public",
   "description": "Middlewares for Nodejs projects",
@@ -43,5 +43,5 @@
   "workspaces": [
     "packages/*"
   ],
-  "gitHead": "84119a03ec9bab8ce26ec58b3327f3068d02cafc"
+  "gitHead": "0caf454ad81010d4f6b5483cfabc165c87d8ff93"
 }

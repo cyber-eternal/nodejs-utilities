@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-utilities",
+  "name": "@cyber-eternal/node-utils",
   "description": "Utilities for Nodejs projects",
   "access": "public",
   "scripts": {
@@ -11,6 +11,9 @@
   "workspaces": [
     "packages/*"
   ],
+  "publishConfig": {
+    "@cyber-eternal:registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cyber-eternal/nodejs-utilities.git"
