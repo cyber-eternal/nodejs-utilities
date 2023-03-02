@@ -12,6 +12,7 @@
     "packages/*"
   ],
   "publishConfig": {
+    "access": "public",
     "@cyber-eternal:registry": "https://npm.pkg.github.com"
   },
   "repository": {
