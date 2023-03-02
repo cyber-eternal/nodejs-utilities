@@ -1,6 +1,7 @@
 {
   "name": "@cyber-eternal/exceptions",
   "version": "0.1.4",
+  "access": "public",
   "description": "Exceptions for Nodejs projects",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -38,5 +39,5 @@
   "dependencies": {
     "express": "^4.18.2"
   },
-  "gitHead": "a3cb5f51859128452ab27e61c5af0bf6022c5c1f"
+  "gitHead": "1ab1654ab1dd8bbc780dee191a2251d7f0388d09"
 }
