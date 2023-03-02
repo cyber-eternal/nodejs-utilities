@@ -1,5 +1,5 @@
 {
-  "name": "@cyber-eternal/nodejs-utilities",
+  "name": "nodejs-utilities",
   "description": "Utilities for Nodejs projects",
   "access": "public",
   "scripts": {

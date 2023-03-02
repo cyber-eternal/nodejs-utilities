@@ -1,5 +1,5 @@
 {
-  "name": "@cyber-eternal/exceptions",
+  "name": "exceptions",
   "version": "0.1.5",
   "access": "public",
   "description": "Exceptions for Nodejs projects",
@@ -39,5 +39,5 @@
   "dependencies": {
     "express": "^4.18.2"
   },
-  "gitHead": "1ab1654ab1dd8bbc780dee191a2251d7f0388d09"
+  "gitHead": "84119a03ec9bab8ce26ec58b3327f3068d02cafc"
 }
