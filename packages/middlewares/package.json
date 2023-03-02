@@ -1,5 +1,5 @@
 {
-  "name": "middlewares",
+  "name": "@cyber-eternal/middlewares",
   "version": "0.1.3",
   "description": "Middlewares for Nodejs projects",
   "main": "./dist/index.js",
@@ -41,5 +41,6 @@
   },
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "gitHead": "a3cb5f51859128452ab27e61c5af0bf6022c5c1f"
 }

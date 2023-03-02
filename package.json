@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-utilities",
+  "name": "@cyber-eternal/nodejs-utilities",
   "description": "Utilities for Nodejs projects",
   "scripts": {
     "publish-from-package": "npx lerna publish from-package"
