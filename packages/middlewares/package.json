@@ -1,6 +1,6 @@
 {
   "name": "@cyber-eternal/middlewares",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "access": "public",
   "description": "Middlewares for Nodejs projects",
   "main": "./dist/index.js",
