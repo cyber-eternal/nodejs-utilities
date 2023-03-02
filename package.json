@@ -1,6 +1,4 @@
 {
-  "name": "@cyber-eternal/node-utils",
-  "description": "Utilities for Nodejs projects",
   "access": "public",
   "scripts": {
     "publish-from-package": "npx lerna publish from-package"
