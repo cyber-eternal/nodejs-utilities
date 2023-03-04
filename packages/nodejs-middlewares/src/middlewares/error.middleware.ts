@@ -1,4 +1,7 @@
-import { HttpException, InternalServerErrorException } from 'exceptions';
+import {
+  HttpException,
+  InternalServerErrorException,
+} from '@cyber-eternal/nodejs-exceptions';
 import { Request, Response, NextFunction } from 'express';
 
 export const ErrorHandlerMiddleware = (
