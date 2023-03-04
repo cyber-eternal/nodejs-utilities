@@ -26,10 +26,6 @@
     "error",
     "handling"
   ],
-  "publishConfig": {
-    "access": "public",
-    "npm:registry": "https://registry.npmjs.org/"
-  },
   "devDependencies": {
     "@types/express": "^4.17.14",
     "@typescript-eslint/eslint-plugin": "^5.19.0",
