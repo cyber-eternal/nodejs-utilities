@@ -1,6 +1,6 @@
 {
   "name": "@cyber-eternal/nodejs-utils",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "access": "public",
   "description": "Utilities for Nodejs projects",
   "main": "./dist/index.js",
@@ -42,8 +42,8 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
-    "@cyber-eternal/nodejs-exceptions": "^0.2.1",
-    "@cyber-eternal/nodejs-middlewares": "^0.2.1",
+    "@cyber-eternal/nodejs-exceptions": "^0.2.2",
+    "@cyber-eternal/nodejs-middlewares": "^0.2.2",
     "express": "^4.18.2"
   },
   "gitHead": "f480784ee1cec8b9b45f606a940deedf448d79eb"
