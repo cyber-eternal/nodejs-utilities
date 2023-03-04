@@ -28,7 +28,8 @@
   ],
   "publishConfig": {
     "access": "public",
-    "npm:registry": "https://registry.npmjs.org/"
+    "npm:registry": "https://registry.npmjs.org/",
+    "@cyber-eternal:registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "@types/express": "^4.17.14",
