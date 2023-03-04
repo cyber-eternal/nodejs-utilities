@@ -1,6 +1,6 @@
 {
   "name": "@cyber-eternal/nodejs-utils",
-  "version": "0.1.2-alpha.1",
+  "version": "0.1.2-alpha.2",
   "access": "public",
   "description": "Utilities for Nodejs projects",
   "main": "./dist/index.js",
