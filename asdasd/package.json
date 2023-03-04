@@ -1,0 +1,20 @@
+{
+  "keywords": [
+    "nodejs",
+    "express",
+    "nestjs",
+    "exceptions",
+    "error",
+    "handling"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyber-eternal/nodejs-utilities.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cyber-eternal/nodejs-utilities/issues"
+  },
+  "homepage": "https://github.com/cyber-eternal/nodejs-utilities#readme",
+  "author": "CyberEternal <edgar@sargsyan.dev>",
+  "license": "MIT"
+}
