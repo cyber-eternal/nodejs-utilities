@@ -1,6 +1,6 @@
 {
   "name": "@cyber-eternal/nodejs-exceptions",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "access": "public",
   "description": "Exceptions for Nodejs projects",
   "main": "./dist/index.js",
@@ -39,7 +39,7 @@
   "dependencies": {
     "express": "^4.18.2"
   },
-  "gitHead": "f480784ee1cec8b9b45f606a940deedf448d79eb",
+  "gitHead": "ec7848257d6928a56b7aecf024e02c49d92d3b09",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cyber-eternal/nodejs-utilities/tree/master/packages/nodejs-exceptions"
