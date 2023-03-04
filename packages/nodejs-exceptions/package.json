@@ -1,6 +1,6 @@
 {
   "name": "@cyber-eternal/nodejs-exceptions",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "access": "public",
   "description": "Exceptions for Nodejs projects",
   "main": "./dist/index.js",
@@ -28,7 +28,7 @@
   ],
   "publishConfig": {
     "access": "public",
-    "@cyber-eternal:registry": "https://npm.pkg.github.com"
+    "npm:registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
     "@types/express": "^4.17.14",

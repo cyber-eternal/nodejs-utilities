@@ -1,6 +1,6 @@
 {
   "name": "@cyber-eternal/nodejs-middlewares",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "access": "public",
   "description": "Middlewares for Nodejs projects",
   "main": "./dist/index.js",
@@ -20,7 +20,7 @@
   ],
   "publishConfig": {
     "access": "public",
-    "@cyber-eternal:registry": "https://npm.pkg.github.com"
+    "npm:registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "nodejs",
