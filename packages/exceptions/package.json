@@ -1,6 +1,6 @@
 {
   "name": "@cyber-eternal/exceptions",
-  "version": "0.2.1",
+  "version": "0.1.10",
   "access": "public",
   "description": "Exceptions for Nodejs projects",
   "main": "./dist/index.js",
