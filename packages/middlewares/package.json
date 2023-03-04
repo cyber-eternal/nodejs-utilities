@@ -1,6 +1,6 @@
 {
   "name": "@cyber-eternal/middlewares",
-  "version": "0.1.9",
+  "version": "0.2.1",
   "access": "public",
   "description": "Middlewares for Nodejs projects",
   "main": "./dist/index.js",
@@ -18,6 +18,10 @@
   "files": [
     "/dist"
   ],
+  "publishConfig": {
+    "access": "public",
+    "@cyber-eternal:registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "nodejs",
     "express",
