@@ -29,8 +29,8 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
-    "@cyber-eternal/nodejs-exceptions": "^0.2.2",
-    "@cyber-eternal/nodejs-middlewares": "^0.2.2",
+    "@cyber-eternal/nodejs-exceptions": "^0.2.3",
+    "@cyber-eternal/nodejs-middlewares": "^0.2.3",
     "express": "^4.18.2"
   },
   "gitHead": "f480784ee1cec8b9b45f606a940deedf448d79eb",
